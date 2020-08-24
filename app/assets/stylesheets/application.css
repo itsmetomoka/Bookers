@@ -25,7 +25,9 @@ body{
 	margin: 30px;
 	font-size: 14px;
 }
-
+.notice {
+	color: green;
+}
 .top_message {
 	line-height: 400%;
 }
